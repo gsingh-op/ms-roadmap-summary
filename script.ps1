@@ -4,8 +4,11 @@ $Result = Invoke-RestMethod -Method Get -Uri $RoadmapURL
 # Filter results for items with "Copilot" in the title and status "Rolling Out"
 $FilteredResult = $Result | Where-Object { $_.title -like "*Copilot*" -and $_.status -eq "Rolling Out" }
 
-# Select only the relevant properties
-$FilteredResult = $FilteredResult | Select-Object id, title, description, publicDisclosureAvailabilityDate, created, modified, status
+# Select relevant properties and add tags as a calculated property
+$FilteredResult = $FilteredResult | Select-Object `
+    id, title, description, publicDisclosureAvailabilityDate, created, modified, status, `
+    @{Name="tags"; Expression={ ($_.tagsContainer.products | ForEach-Object { $_.tagName }) -join ", " }}
+
 
 # Reformat created and modified dates
 $FilteredResult = $FilteredResult | ForEach-Object {

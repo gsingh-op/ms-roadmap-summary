@@ -6,7 +6,8 @@
     "publicDisclosureAvailabilityDate": "August 2024",
     "created": "June 12, 2024",
     "modified": "September 12, 2024",
-    "status": "Rolling out"
+    "status": "Rolling out",
+    "tags": "Microsoft Copilot (Microsoft 365), Word"
   },
   {
     "id": 473441,
@@ -15,7 +16,8 @@
     "publicDisclosureAvailabilityDate": "January 2025",
     "created": "December 20, 2024",
     "modified": "January 24, 2025",
-    "status": "Rolling out"
+    "status": "Rolling out",
+    "tags": "Word, Microsoft Copilot (Microsoft 365)"
   },
   {
     "id": 421607,
@@ -24,7 +26,8 @@
     "publicDisclosureAvailabilityDate": "January 2025",
     "created": "November 19, 2024",
     "modified": "February 5, 2025",
-    "status": "Rolling out"
+    "status": "Rolling out",
+    "tags": "Microsoft Copilot (Microsoft 365), Microsoft Teams"
   },
   {
     "id": 417005,
@@ -33,7 +36,8 @@
     "publicDisclosureAvailabilityDate": "February 2025",
     "created": "September 20, 2024",
     "modified": "February 14, 2025",
-    "status": "Rolling out"
+    "status": "Rolling out",
+    "tags": "OneNote, Microsoft Copilot (Microsoft 365)"
   },
   {
     "id": 429873,
@@ -42,7 +46,8 @@
     "publicDisclosureAvailabilityDate": "March 2025",
     "created": "November 20, 2024",
     "modified": "April 9, 2025",
-    "status": "Rolling out"
+    "status": "Rolling out",
+    "tags": "Excel, Microsoft Copilot (Microsoft 365)"
   },
   {
     "id": 469500,
@@ -51,7 +56,8 @@
     "publicDisclosureAvailabilityDate": "March 2025",
     "created": "November 20, 2024",
     "modified": "June 6, 2025",
-    "status": "Rolling out"
+    "status": "Rolling out",
+    "tags": "Microsoft Copilot (Microsoft 365), OneDrive"
   },
   {
     "id": 325873,
@@ -60,7 +66,8 @@
     "publicDisclosureAvailabilityDate": "March 2025",
     "created": "November 20, 2024",
     "modified": "March 27, 2025",
-    "status": "Rolling out"
+    "status": "Rolling out",
+    "tags": "Microsoft Teams, Microsoft Copilot (Microsoft 365)"
   },
   {
     "id": 468884,
@@ -69,7 +76,8 @@
     "publicDisclosureAvailabilityDate": "March 2025",
     "created": "November 20, 2024",
     "modified": "March 19, 2025",
-    "status": "Rolling out"
+    "status": "Rolling out",
+    "tags": "Microsoft Copilot (Microsoft 365), Microsoft Edge"
   },
   {
     "id": 411302,
@@ -78,7 +86,8 @@
     "publicDisclosureAvailabilityDate": "April 2025",
     "created": "September 16, 2024",
     "modified": "April 21, 2025",
-    "status": "Rolling out"
+    "status": "Rolling out",
+    "tags": "Outlook, Microsoft Copilot (Microsoft 365)"
   },
   {
     "id": 470604,
@@ -87,7 +96,8 @@
     "publicDisclosureAvailabilityDate": "April 2025",
     "created": "January 31, 2025",
     "modified": "May 8, 2025",
-    "status": "Rolling out"
+    "status": "Rolling out",
+    "tags": "Forms, Microsoft Copilot (Microsoft 365)"
   },
   {
     "id": 475054,
@@ -96,7 +106,8 @@
     "publicDisclosureAvailabilityDate": "April 2025",
     "created": "February 5, 2025",
     "modified": "April 14, 2025",
-    "status": "Rolling out"
+    "status": "Rolling out",
+    "tags": "Microsoft Copilot (Microsoft 365), PowerPoint"
   },
   {
     "id": 477374,
@@ -105,7 +116,8 @@
     "publicDisclosureAvailabilityDate": "April 2025",
     "created": "February 19, 2025",
     "modified": "May 8, 2025",
-    "status": "Rolling out"
+    "status": "Rolling out",
+    "tags": "PowerPoint, Microsoft Copilot (Microsoft 365)"
   },
   {
     "id": 478646,
@@ -114,16 +126,8 @@
     "publicDisclosureAvailabilityDate": "April 2025",
     "created": "February 25, 2025",
     "modified": "June 5, 2025",
-    "status": "Rolling out"
-  },
-  {
-    "id": 481144,
-    "title": "Microsoft Teams: Translated Intelligent meeting recap for multilingual meetings (Copilot and Teams Premium)",
-    "description": "Now, intelligent meeting recap supports multilingual meetings, ensuring you can easily catch up on key discussions even when multiple languages were spoken. After the meeting, your recap is automatically generated in the translation language you selected for live transcription and captions.",
-    "publicDisclosureAvailabilityDate": "April 2025",
-    "created": "February 26, 2025",
-    "modified": "April 8, 2025",
-    "status": "Rolling out"
+    "status": "Rolling out",
+    "tags": "Microsoft Copilot (Microsoft 365), Word"
   },
   {
     "id": 473434,
@@ -132,7 +136,18 @@
     "publicDisclosureAvailabilityDate": "April 2025",
     "created": "February 26, 2025",
     "modified": "April 8, 2025",
-    "status": "Rolling out"
+    "status": "Rolling out",
+    "tags": "Microsoft Teams, Microsoft Copilot (Microsoft 365)"
+  },
+  {
+    "id": 481144,
+    "title": "Microsoft Teams: Translated Intelligent meeting recap for multilingual meetings (Copilot and Teams Premium)",
+    "description": "Now, intelligent meeting recap supports multilingual meetings, ensuring you can easily catch up on key discussions even when multiple languages were spoken. After the meeting, your recap is automatically generated in the translation language you selected for live transcription and captions.",
+    "publicDisclosureAvailabilityDate": "April 2025",
+    "created": "February 26, 2025",
+    "modified": "April 8, 2025",
+    "status": "Rolling out",
+    "tags": "Microsoft Teams, Microsoft Copilot (Microsoft 365)"
   },
   {
     "id": 483951,
@@ -141,169 +156,8 @@
     "publicDisclosureAvailabilityDate": "April 2025",
     "created": "March 19, 2025",
     "modified": "April 28, 2025",
-    "status": "Rolling out"
-  },
-  {
-    "id": 325948,
-    "title": "Microsoft Teams: Ability to Stop Copilot while it is generating a response",
-    "description": "Copilot in Teams will now have a 'stop' button after sending a prompt. This will allow the user to stop Copilot's response either before the response has started to generate, or even after the response is generating. The user may then start a new prompt if they wish.",
-    "publicDisclosureAvailabilityDate": "May 2025",
-    "created": "March 6, 2025",
-    "modified": "May 16, 2025",
-    "status": "Rolling out"
-  },
-  {
-    "id": 487423,
-    "title": "Microsoft Copilot (Microsoft 365): Copilot can generate an audio overview of your Word document",
-    "description": "Copilot can turn your Word document into a dynamic audio overview, transforming it into a listening experience that’s easy to follow. Ask Copilot to generate an audio overview in the Copilot chat pane, and Copilot will bring your content to life through a podcast-style discussion between two hosts. This capability is only available in English currently. The ability for users to configure the audio overview format and adjust things like style, number of speakers, and length will be available later.",
-    "publicDisclosureAvailabilityDate": "May 2025",
-    "created": "April 23, 2025",
-    "modified": "May 16, 2025",
-    "status": "Rolling out"
-  },
-  {
-    "id": 482545,
-    "title": "Microsoft Copilot (Microsoft 365): [Copilot Extensibility] Discover agent in Microsoft Copilot on iOS/Android",
-    "description": "Agent has been released to Desktop/Web Copilot and now we are enabling Agent UX in mobile endpoints. It will allow end-users to discover installed agents, add new agents and chat with them in mobile Copilot on Teams, Outlook and Microsoft 365 Copilot App (formerly Microsoft 365 App).",
-    "publicDisclosureAvailabilityDate": "May 2025",
-    "created": "April 23, 2025",
-    "modified": "May 28, 2025",
-    "status": "Rolling out"
-  },
-  {
-    "id": 490156,
-    "title": "Microsoft Copilot (Microsoft 365): Sharing with Copilot summary - Now supporting PowerPoint, Excel, PDFs, Images, and protected files",
-    "description": "The ability to include a Copilot summary when sharing a file now extends beyond Word web to cover PowerPoint (web), Excel (web), PDF, image and text files in OneDrive Web, SharePoint document libraries, and M365 File Viewer. You can even summarize protected or confidential files, preserving your sensitivity labels while getting instant overviews. These enhancements broaden your sharing toolkit, accelerate collaboration and keep your data secure.",
-    "publicDisclosureAvailabilityDate": "May 2025",
-    "created": "April 21, 2025",
-    "modified": "May 23, 2025",
-    "status": "Rolling out"
-  },
-  {
-    "id": 483954,
-    "title": "Microsoft Copilot (Microsoft 365): Fix all spelling and grammar issues with Copilot",
-    "description": "One-click solution to fix spelling and grammar errors in the document",
-    "publicDisclosureAvailabilityDate": "May 2025",
-    "created": "April 15, 2025",
-    "modified": "May 29, 2025",
-    "status": "Rolling out"
-  },
-  {
-    "id": 366572,
-    "title": "Outlook: Custom Instructions for draft with Copilot",
-    "description": "Give Copilot some instructions about your emails - like the tone, length, greeting - so your Copilot generated drafts sound more like you want them to. #newoutlookforwindow",
-    "publicDisclosureAvailabilityDate": "May 2025",
-    "created": "April 14, 2025",
-    "modified": "May 1, 2025",
-    "status": "Rolling out"
-  },
-  {
-    "id": 489451,
-    "title": "Microsoft Copilot (Microsoft 365): Copilot generates the new presentation in a new file when starting from an existing presentation",
-    "description": "Now, when creating a presentation using Copilot from an existing presentation, it will create the new presentation in a new file without affecting the original presentation",
-    "publicDisclosureAvailabilityDate": "May 2025",
-    "created": "April 11, 2025",
-    "modified": "May 22, 2025",
-    "status": "Rolling out"
-  },
-  {
-    "id": 489450,
-    "title": "Microsoft Copilot (Microsoft 365): Copilot generates the new presentation in a new file when starting from an existing presentation",
-    "description": "Now, when creating a presentation using Copilot from an existing presentation, it will create the new presentation in a new file without affecting the original presentation",
-    "publicDisclosureAvailabilityDate": "May 2025",
-    "created": "April 11, 2025",
-    "modified": "May 14, 2025",
-    "status": "Rolling out"
-  },
-  {
-    "id": 475249,
-    "title": "Outlook: Summarize email attachments with Copilot",
-    "description": "You will now be able to summarize PDF, Word, and PowerPoint email attachments with Copilot in Outlook. The new feature will be available for Outlook Web, the new Outlook for Windows, Outlook Mobile, and the new Outlook for Mac. #newoutlookforwindows",
-    "publicDisclosureAvailabilityDate": "May 2025",
-    "created": "January 16, 2025",
-    "modified": "May 20, 2025",
-    "status": "Rolling out"
-  },
-  {
-    "id": 485188,
-    "title": "Microsoft Copilot (Microsoft 365): Copilot advanced text analysis in Excel",
-    "description": "Copilot can now analyze text by identifying themes or sentiments, cite examples in the data, and insert a column with theme/sentiment labels.",
-    "publicDisclosureAvailabilityDate": "May 2025",
-    "created": "March 28, 2025",
-    "modified": "June 9, 2025",
-    "status": "Rolling out"
-  },
-  {
-    "id": 475053,
-    "title": "Microsoft Copilot (Microsoft 365): Suggestions for slide templates as you work",
-    "description": "Now, instantly get suggestions for slide templates to use while creating slides in PowerPoint. Insert a new slide or start typing the slide name or type of slide and see suggestions in the Copilot Suggestions pane.",
-    "publicDisclosureAvailabilityDate": "May 2025",
-    "created": "February 5, 2025",
-    "modified": "May 14, 2025",
-    "status": "Rolling out"
-  },
-  {
-    "id": 485181,
-    "title": "Microsoft Copilot (Microsoft 365): Easily select a template while you create a new PowerPoint presentation with Copilot",
-    "description": "When creating a new presentation with Copilot in PowerPoint, choose a template from your organization's collection for on-brand presentations, or select from Microsoft's handpicked templates, ensuring the new presentation is built as per your chosen template.",
-    "publicDisclosureAvailabilityDate": "May 2025",
-    "created": "March 28, 2025",
-    "modified": "June 9, 2025",
-    "status": "Rolling out"
-  },
-  {
-    "id": 485180,
-    "title": "Microsoft Copilot (Microsoft 365): Easily select a template while you create a new PowerPoint presentation with Copilot",
-    "description": "When creating a new presentation with Copilot in PowerPoint, choose a template from your organization's collection for on-brand presentations, or select from Microsoft's handpicked templates, ensuring the new presentation is built as per your chosen template.",
-    "publicDisclosureAvailabilityDate": "May 2025",
-    "created": "March 28, 2025",
-    "modified": "May 14, 2025",
-    "status": "Rolling out"
-  },
-  {
-    "id": 478649,
-    "title": "Microsoft Copilot (Microsoft 365): Audio summary of your file ",
-    "description": "Copilot can generate audio summaries of your file, making information easy to consume anywhere.",
-    "publicDisclosureAvailabilityDate": "May 2025",
-    "created": "February 21, 2025",
-    "modified": "May 13, 2025",
-    "status": "Rolling out"
-  },
-  {
-    "id": 481558,
-    "title": "Outlook: Agents in Microsoft 365 Copilot Chat in Outlook on the Web and the new Outlook for Windows",
-    "description": "Declarative Agents have already rolled out to Microsoft 365 Copilot chat, with this update we will be adding support for the same set of agents in Copilot chat in Outlook too. #newoutlookforwindows",
-    "publicDisclosureAvailabilityDate": "May 2025",
-    "created": "February 24, 2025",
-    "modified": "May 23, 2025",
-    "status": "Rolling out"
-  },
-  {
-    "id": 478645,
-    "title": "Microsoft Copilot (Microsoft 365): Support for summarization of very long documents",
-    "description": "Copilot in Word can summarize documents up to about 1,500,000 words or 3,000 pages. This summary will be available on top of the document.",
-    "publicDisclosureAvailabilityDate": "May 2025",
-    "created": "February 25, 2025",
-    "modified": "June 5, 2025",
-    "status": "Rolling out"
-  },
-  {
-    "id": 485179,
-    "title": "Microsoft Copilot (Microsoft 365): Easily select a template while you create a new PowerPoint presentation with Copilot",
-    "description": "When creating a new presentation with Copilot in PowerPoint, choose a template from your organization's collection for on-brand presentations, or select from Microsoft's handpicked templates, ensuring the new presentation is built as per your chosen template.",
-    "publicDisclosureAvailabilityDate": "May 2025",
-    "created": "March 28, 2025",
-    "modified": "May 14, 2025",
-    "status": "Rolling out"
-  },
-  {
-    "id": 481352,
-    "title": "Microsoft Teams: Copilot in Teams meetings responses can be exported to Word and Excel",
-    "description": "Now, certain responses from Copilot in Teams meetings will have an option to ‘edit in’ Word or Excel. The ‘edit in’ option for Word will be available for Copilot responses that are long (more than 1300 characters) and will automatically open a Word document with the response written. The ‘edit in’ option for Excel will be available for Copilot responses that are formatted in a table, and will automatically open an Excel file with the formatted response added. Copilot responses can only be exported if the meeting policy for the meeting is set to allow copying or forwarding of meeting chat, live captions, transcript, and Copilot responses. The export capability will also inherit the sensitivity label of the meeting (sensitivity labels are available to Teams Premium users). ",
-    "publicDisclosureAvailabilityDate": "May 2025",
-    "created": "February 26, 2025",
-    "modified": "May 1, 2025",
-    "status": "Rolling out"
+    "status": "Rolling out",
+    "tags": "Microsoft Copilot (Microsoft 365)"
   },
   {
     "id": 484843,
@@ -312,16 +166,8 @@
     "publicDisclosureAvailabilityDate": "May 2025",
     "created": "March 13, 2025",
     "modified": "May 28, 2025",
-    "status": "Rolling out"
-  },
-  {
-    "id": 481829,
-    "title": "Microsoft Copilot (Microsoft 365): Copilot Extensibility - Admins can manage Copilot extensibility under Copilot tab in Microsoft 365 admin center",
-    "description": "Admins have options to manage Copilot extensibility under Copilot tab including agent management for IT published agents and shared agents. ",
-    "publicDisclosureAvailabilityDate": "May 2025",
-    "created": "February 28, 2025",
-    "modified": "June 3, 2025",
-    "status": "Rolling out"
+    "status": "Rolling out",
+    "tags": "Microsoft Copilot (Microsoft 365), PowerPoint"
   },
   {
     "id": 490155,
@@ -330,7 +176,208 @@
     "publicDisclosureAvailabilityDate": "May 2025",
     "created": "April 23, 2025",
     "modified": "May 20, 2025",
-    "status": "Rolling out"
+    "status": "Rolling out",
+    "tags": "Microsoft Copilot (Microsoft 365)"
+  },
+  {
+    "id": 487854,
+    "title": "Microsoft Copilot (Microsoft 365): Copilot can generate an audio overview of a notebook",
+    "description": "Copilot can turn the referenced files in a notebook into a dynamic audio overview, transforming them into a listening experience that’s easy to follow. To generate an audio overview in Copilot Notebooks, select ‘Generate audio overview’ at the top of the notebook. This capability is only available in English currently.",
+    "publicDisclosureAvailabilityDate": "May 2025",
+    "created": "April 23, 2025",
+    "modified": "June 10, 2025",
+    "status": "Rolling out",
+    "tags": "Microsoft Copilot (Microsoft 365), OneNote"
+  },
+  {
+    "id": 487423,
+    "title": "Microsoft Copilot (Microsoft 365): Copilot can generate an audio overview of your Word document",
+    "description": "Copilot can turn your Word document into a dynamic audio overview, transforming it into a listening experience that’s easy to follow. Ask Copilot to generate an audio overview in the Copilot chat pane, and Copilot will bring your content to life through a podcast-style discussion between two hosts. This capability is only available in English currently. The ability for users to configure the audio overview format and adjust things like style, number of speakers, and length will be available later.",
+    "publicDisclosureAvailabilityDate": "May 2025",
+    "created": "April 23, 2025",
+    "modified": "May 16, 2025",
+    "status": "Rolling out",
+    "tags": "Microsoft Copilot (Microsoft 365), Word"
+  },
+  {
+    "id": 482545,
+    "title": "Microsoft Copilot (Microsoft 365): [Copilot Extensibility] Discover agent in Microsoft Copilot on iOS/Android",
+    "description": "Agent has been released to Desktop/Web Copilot and now we are enabling Agent UX in mobile endpoints. It will allow end-users to discover installed agents, add new agents and chat with them in mobile Copilot on Teams, Outlook and Microsoft 365 Copilot App (formerly Microsoft 365 App).",
+    "publicDisclosureAvailabilityDate": "May 2025",
+    "created": "April 23, 2025",
+    "modified": "May 28, 2025",
+    "status": "Rolling out",
+    "tags": "Microsoft 365 app, Microsoft Copilot (Microsoft 365), Microsoft Teams, Outlook"
+  },
+  {
+    "id": 490156,
+    "title": "Microsoft Copilot (Microsoft 365): Sharing with Copilot summary - Now supporting PowerPoint, Excel, PDFs, Images, and protected files",
+    "description": "The ability to include a Copilot summary when sharing a file now extends beyond Word web to cover PowerPoint (web), Excel (web), PDF, image and text files in OneDrive Web, SharePoint document libraries, and M365 File Viewer. You can even summarize protected or confidential files, preserving your sensitivity labels while getting instant overviews. These enhancements broaden your sharing toolkit, accelerate collaboration and keep your data secure.",
+    "publicDisclosureAvailabilityDate": "May 2025",
+    "created": "April 21, 2025",
+    "modified": "May 23, 2025",
+    "status": "Rolling out",
+    "tags": "Microsoft Copilot (Microsoft 365), OneDrive, SharePoint"
+  },
+  {
+    "id": 483954,
+    "title": "Microsoft Copilot (Microsoft 365): Fix all spelling and grammar issues with Copilot",
+    "description": "One-click solution to fix spelling and grammar errors in the document",
+    "publicDisclosureAvailabilityDate": "May 2025",
+    "created": "April 15, 2025",
+    "modified": "May 29, 2025",
+    "status": "Rolling out",
+    "tags": "Microsoft Copilot (Microsoft 365), Word"
+  },
+  {
+    "id": 366572,
+    "title": "Outlook: Custom Instructions for draft with Copilot",
+    "description": "Give Copilot some instructions about your emails - like the tone, length, greeting - so your Copilot generated drafts sound more like you want them to. #newoutlookforwindow",
+    "publicDisclosureAvailabilityDate": "May 2025",
+    "created": "April 14, 2025",
+    "modified": "May 1, 2025",
+    "status": "Rolling out",
+    "tags": "Outlook, Microsoft Copilot (Microsoft 365)"
+  },
+  {
+    "id": 475249,
+    "title": "Outlook: Summarize email attachments with Copilot",
+    "description": "You will now be able to summarize PDF, Word, and PowerPoint email attachments with Copilot in Outlook. The new feature will be available for Outlook Web, the new Outlook for Windows, Outlook Mobile, and the new Outlook for Mac. #newoutlookforwindows",
+    "publicDisclosureAvailabilityDate": "May 2025",
+    "created": "January 16, 2025",
+    "modified": "May 20, 2025",
+    "status": "Rolling out",
+    "tags": "Microsoft Copilot (Microsoft 365), Outlook"
+  },
+  {
+    "id": 489451,
+    "title": "Microsoft Copilot (Microsoft 365): Copilot generates the new presentation in a new file when starting from an existing presentation",
+    "description": "Now, when creating a presentation using Copilot from an existing presentation, it will create the new presentation in a new file without affecting the original presentation",
+    "publicDisclosureAvailabilityDate": "May 2025",
+    "created": "April 11, 2025",
+    "modified": "May 22, 2025",
+    "status": "Rolling out",
+    "tags": "Microsoft Copilot (Microsoft 365), PowerPoint"
+  },
+  {
+    "id": 475053,
+    "title": "Microsoft Copilot (Microsoft 365): Suggestions for slide templates as you work",
+    "description": "Now, instantly get suggestions for slide templates to use while creating slides in PowerPoint. Insert a new slide or start typing the slide name or type of slide and see suggestions in the Copilot Suggestions pane.",
+    "publicDisclosureAvailabilityDate": "May 2025",
+    "created": "February 5, 2025",
+    "modified": "May 14, 2025",
+    "status": "Rolling out",
+    "tags": "Microsoft Copilot (Microsoft 365), PowerPoint"
+  },
+  {
+    "id": 489450,
+    "title": "Microsoft Copilot (Microsoft 365): Copilot generates the new presentation in a new file when starting from an existing presentation",
+    "description": "Now, when creating a presentation using Copilot from an existing presentation, it will create the new presentation in a new file without affecting the original presentation",
+    "publicDisclosureAvailabilityDate": "May 2025",
+    "created": "April 11, 2025",
+    "modified": "May 14, 2025",
+    "status": "Rolling out",
+    "tags": "Microsoft Copilot (Microsoft 365), PowerPoint"
+  },
+  {
+    "id": 478649,
+    "title": "Microsoft Copilot (Microsoft 365): Audio summary of your file ",
+    "description": "Copilot can generate audio summaries of your file, making information easy to consume anywhere.",
+    "publicDisclosureAvailabilityDate": "May 2025",
+    "created": "February 21, 2025",
+    "modified": "May 13, 2025",
+    "status": "Rolling out",
+    "tags": "Microsoft Copilot (Microsoft 365), OneDrive"
+  },
+  {
+    "id": 481558,
+    "title": "Outlook: Agents in Microsoft 365 Copilot Chat in Outlook on the Web and the new Outlook for Windows",
+    "description": "Declarative Agents have already rolled out to Microsoft 365 Copilot chat, with this update we will be adding support for the same set of agents in Copilot chat in Outlook too. #newoutlookforwindows",
+    "publicDisclosureAvailabilityDate": "May 2025",
+    "created": "February 24, 2025",
+    "modified": "May 23, 2025",
+    "status": "Rolling out",
+    "tags": "Outlook"
+  },
+  {
+    "id": 478645,
+    "title": "Microsoft Copilot (Microsoft 365): Support for summarization of very long documents",
+    "description": "Copilot in Word can summarize documents up to about 1,500,000 words or 3,000 pages. This summary will be available on top of the document.",
+    "publicDisclosureAvailabilityDate": "May 2025",
+    "created": "February 25, 2025",
+    "modified": "June 5, 2025",
+    "status": "Rolling out",
+    "tags": "Microsoft Copilot (Microsoft 365), Word"
+  },
+  {
+    "id": 485181,
+    "title": "Microsoft Copilot (Microsoft 365): Easily select a template while you create a new PowerPoint presentation with Copilot",
+    "description": "When creating a new presentation with Copilot in PowerPoint, choose a template from your organization's collection for on-brand presentations, or select from Microsoft's handpicked templates, ensuring the new presentation is built as per your chosen template.",
+    "publicDisclosureAvailabilityDate": "May 2025",
+    "created": "March 28, 2025",
+    "modified": "June 9, 2025",
+    "status": "Rolling out",
+    "tags": "Microsoft Copilot (Microsoft 365), PowerPoint"
+  },
+  {
+    "id": 481352,
+    "title": "Microsoft Teams: Copilot in Teams meetings responses can be exported to Word and Excel",
+    "description": "Now, certain responses from Copilot in Teams meetings will have an option to ‘edit in’ Word or Excel. The ‘edit in’ option for Word will be available for Copilot responses that are long (more than 1300 characters) and will automatically open a Word document with the response written. The ‘edit in’ option for Excel will be available for Copilot responses that are formatted in a table, and will automatically open an Excel file with the formatted response added. Copilot responses can only be exported if the meeting policy for the meeting is set to allow copying or forwarding of meeting chat, live captions, transcript, and Copilot responses. The export capability will also inherit the sensitivity label of the meeting (sensitivity labels are available to Teams Premium users). ",
+    "publicDisclosureAvailabilityDate": "May 2025",
+    "created": "February 26, 2025",
+    "modified": "May 1, 2025",
+    "status": "Rolling out",
+    "tags": "Microsoft Teams, Microsoft Copilot (Microsoft 365)"
+  },
+  {
+    "id": 485180,
+    "title": "Microsoft Copilot (Microsoft 365): Easily select a template while you create a new PowerPoint presentation with Copilot",
+    "description": "When creating a new presentation with Copilot in PowerPoint, choose a template from your organization's collection for on-brand presentations, or select from Microsoft's handpicked templates, ensuring the new presentation is built as per your chosen template.",
+    "publicDisclosureAvailabilityDate": "May 2025",
+    "created": "March 28, 2025",
+    "modified": "May 14, 2025",
+    "status": "Rolling out",
+    "tags": "Microsoft Copilot (Microsoft 365), PowerPoint"
+  },
+  {
+    "id": 485179,
+    "title": "Microsoft Copilot (Microsoft 365): Easily select a template while you create a new PowerPoint presentation with Copilot",
+    "description": "When creating a new presentation with Copilot in PowerPoint, choose a template from your organization's collection for on-brand presentations, or select from Microsoft's handpicked templates, ensuring the new presentation is built as per your chosen template.",
+    "publicDisclosureAvailabilityDate": "May 2025",
+    "created": "March 28, 2025",
+    "modified": "May 14, 2025",
+    "status": "Rolling out",
+    "tags": "Microsoft Copilot (Microsoft 365), PowerPoint"
+  },
+  {
+    "id": 481829,
+    "title": "Microsoft Copilot (Microsoft 365): Copilot Extensibility - Admins can manage Copilot extensibility under Copilot tab in Microsoft 365 admin center",
+    "description": "Admins have options to manage Copilot extensibility under Copilot tab including agent management for IT published agents and shared agents. ",
+    "publicDisclosureAvailabilityDate": "May 2025",
+    "created": "February 28, 2025",
+    "modified": "June 3, 2025",
+    "status": "Rolling out",
+    "tags": "Microsoft 365 Admin Center, Microsoft Copilot (Microsoft 365)"
+  },
+  {
+    "id": 325948,
+    "title": "Microsoft Teams: Ability to Stop Copilot while it is generating a response",
+    "description": "Copilot in Teams will now have a 'stop' button after sending a prompt. This will allow the user to stop Copilot's response either before the response has started to generate, or even after the response is generating. The user may then start a new prompt if they wish.",
+    "publicDisclosureAvailabilityDate": "May 2025",
+    "created": "March 6, 2025",
+    "modified": "May 16, 2025",
+    "status": "Rolling out",
+    "tags": "Microsoft Copilot (Microsoft 365), Microsoft Teams"
+  },
+  {
+    "id": 485188,
+    "title": "Microsoft Copilot (Microsoft 365): Copilot advanced text analysis in Excel",
+    "description": "Copilot can now analyze text by identifying themes or sentiments, cite examples in the data, and insert a column with theme/sentiment labels.",
+    "publicDisclosureAvailabilityDate": "May 2025",
+    "created": "March 28, 2025",
+    "modified": "June 9, 2025",
+    "status": "Rolling out",
+    "tags": "Excel, Microsoft Copilot (Microsoft 365)"
   },
   {
     "id": 484123,
@@ -339,6 +386,17 @@
     "publicDisclosureAvailabilityDate": "June 2025",
     "created": "March 7, 2025",
     "modified": "June 5, 2025",
-    "status": "Rolling out"
+    "status": "Rolling out",
+    "tags": "Microsoft Copilot (Microsoft 365), Microsoft Teams"
+  },
+  {
+    "id": 491469,
+    "title": "Microsoft Copilot (Microsoft 365): Create a presentation with Copilot from the PowerPoint backstage view",
+    "description": "You can now create a presentation with Copilot straight from the PowerPoint backstage view, accessible when you start PowerPoint or when you select the File tab.",
+    "publicDisclosureAvailabilityDate": "June 2025",
+    "created": "May 7, 2025",
+    "modified": "June 11, 2025",
+    "status": "Rolling out",
+    "tags": "Microsoft Copilot (Microsoft 365), PowerPoint"
   }
 ]
